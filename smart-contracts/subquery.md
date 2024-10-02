@@ -1,14 +1,14 @@
 ---
-description: SubQuery is the native Indexer that provides data on DERA chain
+description: SubQuery is the native Indexer that provides on-chain data on DERA chain
 ---
 
-# SubQuery
+# SubQuery Indexer
 
 We utilize SubQuery to provide a native Indexer supports for all Protocol and Dapps working on DERA chain.
 
 ## TESTNET
 
-* Endpoint [https://subquery.derachain.com](https://subquery.derachain.com/)
+* Endpoint [https://indexer.derachain.com/](https://indexer.derachain.com/)
 * Example query:
 
 ```graphql

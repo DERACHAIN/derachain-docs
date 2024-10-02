@@ -93,4 +93,4 @@
 * [EVM compatibility](smart-contracts/evm-compatibility.md)
 * [Hardhat](smart-contracts/hardhat.md)
 * [Account Abstraction](smart-contracts/account-abstraction.md)
-* [SubQuery](smart-contracts/subquery.md)
+* [SubQuery Indexer](smart-contracts/subquery.md)
