@@ -1,5 +1,5 @@
 ---
-description: Guideline on Hardhat config and deployment.
+description: Smart contract development using Hardhat
 ---
 
 # Hardhat
