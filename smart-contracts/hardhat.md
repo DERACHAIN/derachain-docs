@@ -13,7 +13,7 @@ description: Smart contract development using Hardhat
 networks: {
     derachain: {
       chainId: 20240801,
-      url: "https://rpc-testnet.derachain.com/ext/bc/2LZp9ypK4SWm3a8MBYZbxTZgKbvB4aemUf83cBp1hSnvP7SFiw/rpc",
+      url: "<derachain-rpc-url>",
       accounts: [process.env.PRIVATE_KEY!],
     },
 }

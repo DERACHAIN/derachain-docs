@@ -33,3 +33,5 @@ $ forge verify-contract \
 <deployed-address> \
 path/to/Contract.sol:ContractName
 ```
+
+After verification, the verified contracts can be displayed and interacted with on [Explorer](https://trace.derachain.com).
