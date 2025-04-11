@@ -2,24 +2,23 @@
 description: DERA chain is the next-generation Avalanche L1 blockchain.
 ---
 
-# Overview
+# Introduction
 
 ## Core values
 
 1. Best Web3 UX
-2. Onchain data
+2. Fully On-chain data
 3. Diversified assets classes
-4. Avalanche ecosystem
+4. Flourish Avalanche ecosystem
 5. High yield staking
 
-## Testnet
+## Alphanet
 
 * Chain name: DERA
-* Chain ID: 20240801
+* Chain ID: 20250320
 * Token: DERA
-* RPC: [https://rpc-testnet.derachain.com/ext/bc/2WMFYSdPEx6LR3gsQfQtiezMwSUijqxuPa61wVE66rnc2aHKL6/rpc](https://rpc-testnet.derachain.com/ext/bc/2WMFYSdPEx6LR3gsQfQtiezMwSUijqxuPa61wVE66rnc2aHKL6/rpc)
+* RPC: [https://rpc1.derachain.com/ext/bc/2XCTEc8CfNK9MtQWYMfgNt32QjZsZqq92LH7eTV5xY8YjY44du/rpc](https://rpc1.derachain.com/ext/bc/2XCTEc8CfNK9MtQWYMfgNt32QjZsZqq92LH7eTV5xY8YjY44du/rpc)
 * Explorer: [https://trace.derachain.com/](https://trace.derachain.com/)
-* Faucet: [https://faucet.derachain.com/](https://faucet.derachain.com/)
 
 ## Mainnet
 
