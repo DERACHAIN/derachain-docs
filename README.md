@@ -1,5 +1,5 @@
 ---
-description: DERA chain is the next-generation Avalanche L1 blockchain.
+description: DERA chain is a permission-less Avalanche L1 blockchain with unique values.
 ---
 
 # Introduction
