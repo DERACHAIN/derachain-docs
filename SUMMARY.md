@@ -2,11 +2,6 @@
 
 * [Introduction](README.md)
 
-## Nodes & Validators
-
-* [Run a Node](nodes-and-validators/run-a-node.md)
-* [Become a Validator](nodes-and-validators/become-a-validator.md)
-
 ## NFT2.0
 
 * [Introduction](nft2.0/nft2.0-protocol.md)
@@ -88,3 +83,8 @@
 * [Foundry](smart-contracts/foundry.md)
 * [Account Abstraction](smart-contracts/account-abstraction.md)
 * [SubQuery Indexer](smart-contracts/subquery.md)
+
+## Nodes & Validators
+
+* [Run a Node](nodes-and-validators/run-a-node.md)
+* [Become a Validator](nodes-and-validators/become-a-validator.md)
