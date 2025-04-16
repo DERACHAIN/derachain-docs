@@ -76,7 +76,7 @@ Users will then be prompted to confirm the transaction on Metamask extension
 
 ## 8. Complete validate
 
-Once completed, users will see their validation was successful. They can then view the transaction information on the [Explorer](https://trace.derachain.com/) or return to Stake.
+Once completed, users will see their validation was successful. They can then view the transaction information on the [Explorer](https://trace.derachain.com/) or return to [dashboard](https://stake-stg.derachain.com/my-staking).
 
 * _NOTE: After approving the transaction, it may take a few minutes for the Staking to begin._
 

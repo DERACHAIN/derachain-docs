@@ -52,7 +52,7 @@ After the above steps are completed, users will see a summary of their delegatio
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Summary</p></figcaption></figure>
 
-Once completed, users will see a confirmation of successful delegation. They can then view the transaction on the[ Explorer](https://trace.derachain.com/) or [dashboard](https://stake-stg.derachain.com/my-staking).
+Once completed, users will see a confirmation of successful delegation. They can then view the transaction on the[ Explorer](https://trace.derachain.com/) or return to [dashboard](https://stake-stg.derachain.com/my-staking).
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Completed Delegate</p></figcaption></figure>
 
