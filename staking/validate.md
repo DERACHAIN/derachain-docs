@@ -1,5 +1,5 @@
 ---
-description: How do I validate in https://stake.derachain.com ?
+description: How do I validate in https://stake.derachain.com?
 ---
 
 # Validate
@@ -64,7 +64,7 @@ Next, users will select the delegation fee that will be charged to the delegator
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Step5: Delegation fee</p></figcaption></figure>
 
-## 7. Summary and Submit Validation
+## 7. Review and Confirm Validation
 
 Finally, users will view a summary of their validation information. Users can go back to adjust any submitted information, reset the setup, or complete the validation by hitting the “Submit Validation” button.
 
