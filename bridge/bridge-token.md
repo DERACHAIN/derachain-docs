@@ -6,13 +6,15 @@ description: >-
 
 # Bridge Token
 
-## 1. **Connect wallet**
+## 1. **Bridge token**
+
+### **1.1 Connect wallet**
 
 * Connect wallet by MetaMask extension with Derachain network
 
 <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Connect wallet</p></figcaption></figure>
 
-## **2. Import token bridge information**
+### **1.2 Import token bridge information**
 
 * From the drop-down list select sender blockchain and destination blockchain
 * Enter amount token&#x20;
@@ -20,17 +22,17 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Bridge token</p></figcaption></figure>
 
-## **3. Comfirm fee**
+### **1.3 Comfirm fee**
 
 * Select Bridge fee is currently **included or exclude** in your input amount
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Popup confirm Bridge fee</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Popup confirm Bridge fee</p></figcaption></figure>
 
-## **4. Complete**
+### **1.4 Completed**
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Bridge token completed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Bridge token completed</p></figcaption></figure>
 
-## **5. Retry**&#x20;
+## **2. Retry**&#x20;
 
 In case you have not received the token after 10 minutes, please use the retry feature:
 
@@ -43,3 +45,17 @@ In case you have not received the token after 10 minutes, please use the retry f
 * Retry completed
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Retry token completed</p></figcaption></figure>
+
+## 3. View history
+
+Users can view all of their bridge transactions in the **History** tab.\
+Here, the bridge history is displayed clearly for each transaction, including details such as:
+
+* Amount of tokens bridged
+* Source and destination chains with sender/receiver addresses
+* Transaction time
+* Status (Completed, Pending)
+* Order ID
+* Transaction hash (clickable to view on [Derachain Explorer](https://trace.derachain.com/))
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>History</p></figcaption></figure>

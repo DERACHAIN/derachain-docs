@@ -6,7 +6,9 @@ description: How do I delegate in https://stake.derachain.com?
 
 Delegating is an easier means to contribute to the network’s decentralization. Users should conduct their own research before delegating to a Node.
 
-## 1. Connect Wallet to Delegate
+## 1. How to Delegate?
+
+### 1.1 Connect Wallet to Delegate
 
 To start validating on Derachain, you need to connect your wallet first.\
 Navigate to **My Staking > Deledate** and click **Connect Wallet**.\
@@ -16,7 +18,7 @@ This will enable you to create your own validator node and stake tokens securely
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Connect wallet</p></figcaption></figure>
 
-## 2. Staking Amount
+### 1.2 Staking Amount
 
 To delegate, you need to DERA token and the current available balance will be displayed.
 
@@ -26,7 +28,7 @@ After entering the amount to delegate, click “Next”.
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Step1: Staking Amount</p></figcaption></figure>
 
-## 3. Node Info
+### 1.3 Node Info
 
 Next, users will select the node to delegate their DERA to. Some important information to note for each information column next to the Node ID:
 
@@ -38,7 +40,7 @@ Once the preferred node is chosen, click Select. Then, click "Next".
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Step2: Node Info</p></figcaption></figure>
 
-## 4. Reward Address
+### 1.4 Reward Address
 
 After selecting a delegation duration, the user will choose the address that the rewards will be delivered to. Users can choose between their connected DeraChain wallet address, or enter a custom address.
 
@@ -46,7 +48,7 @@ After specifying an address, click "Next".
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Step3: Reward address</p></figcaption></figure>
 
-## 5. Review and Confirm Delegation
+### 1.5 Review and Confirm Delegation
 
 After the above steps are completed, users will see a summary of their delegation information. Users can go back to adjust any submitted information, click Start Over to be brought back to the original page, or complete the delegation by clicking Submit Delegation and confirming the transaction with the connected wallet.
 
@@ -56,6 +58,9 @@ Once completed, users will see a confirmation of successful delegation. They can
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Completed Delegate</p></figcaption></figure>
 
-\
+## 2. Remove Delegate
+
+3\. View page\
+
 
 
