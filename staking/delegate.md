@@ -58,6 +58,16 @@ Once completed, users will see a confirmation of successful delegation. They can
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Completed Delegate</p></figcaption></figure>
 
+You can view the newly created delegator's info on the [dashboard](https://stake-stg.derachain.com/my-staking)  by clicking the "Back to Staking Center" button&#x20;
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>My staking</p></figcaption></figure>
+
+Clicking on the Transaction ID opens the Delegator detail page, where all key information about the delegator is display.
+
+<table><thead><tr><th width="137.20001220703125">Ingredient</th><th>Description</th></tr></thead><tbody><tr><td>Validator</td><td>Validator name and NodeID</td></tr><tr><td>Start and End Dates</td><td>Delegation start and end time</td></tr><tr><td>Status</td><td><p></p><p>Transaction status (e.g., Active)</p></td></tr><tr><td>Duration</td><td>Delegation duration (e.g., 2 weeks)</td></tr><tr><td>Progress</td><td>A progress chart displays the percentage from Start to End.</td></tr><tr><td>Time Remaining</td><td>The remaining time is displayed as a countdown (Days, Hours, Minutes, Seconds)</td></tr><tr><td>Delegated Amount</td><td>Total delegated tokens</td></tr><tr><td>Owner</td><td>Owner of delegator</td></tr><tr><td>Validator tab</td><td>Display a table of delegators who have staked with the validator.</td></tr><tr><td>Delegation History tab</td><td>Provide data on completed or ongoing delegation sessions of the delegator</td></tr><tr><td>Health Check tab</td><td>Show validator status using specific metrics such as status, online availability, accessibility, and responsiveness</td></tr></tbody></table>
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Delegator detail</p></figcaption></figure>
+
 ## 2. Remove Delegate
 
 ### 2.1 When Can You Remove Delegator?
@@ -86,8 +96,6 @@ Once completed, users will see a confirmation of successful delegation. They can
 * Your tokens will be automatically returned to your wallet after you remove the delegator.
 * Staking with the previous validator will be fully terminated: no more staking link or reward tracking associated with that validator.
 * You can re-stake with another validator, or simply hold your tokens for more flexibility in the future.
-
-3\. View page\
 
 
 

@@ -84,6 +84,16 @@ Once completed, users will see their validation was successful. They can then vi
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Completed validate</p></figcaption></figure>
 
+* You can view the details of the newly created node on the [dashboard](https://stake-stg.derachain.com/my-staking):&#x20;
+
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>My staking</p></figcaption></figure>
+
+Clicking on the NodeID opens the validator detail page, where all key information about the node is displayed.
+
+<table><thead><tr><th width="148.20001220703125">Ingredient</th><th>Descriptionn</th></tr></thead><tbody><tr><td>Node ID</td><td>A unique identifier for the validator node.</td></tr><tr><td>Ownerd Stake</td><td>Total amount this validator has individually staked at the beginning of the validation period</td></tr><tr><td>Status</td><td>Validator node status</td></tr><tr><td>Duration</td><td>Validator uptime</td></tr><tr><td>Start/ End time</td><td>Validator start/end time</td></tr><tr><td>Countdown</td><td>Time remaining until staking ends (displayed in Days, Hours, Minutes, Seconds)</td></tr><tr><td>Tx Hash</td><td>   Stake transaction hash</td></tr><tr><td>Owner</td><td>Owner of Node</td></tr><tr><td>BLS Public Key/ BLS Signature</td><td>Validator's authentication data</td></tr><tr><td>Delegator Count</td><td>Total number of delegators staking to validator node</td></tr><tr><td>Delegation Fee</td><td>Delegators give validators a portion of their staking rewards as compensation for staking to the validator's active node. Validators set their own delegation fees, with the minimum being 2%</td></tr><tr><td>Delegator Stake</td><td>Total stake delegated to this active validator</td></tr><tr><td>Owned Stake</td><td>Total amount this validator has individually staked at the beginning of the validation period</td></tr><tr><td>Total Stake</td><td>Total amount currently staked to this active validator (Delegator stake + Owned Stake)</td></tr><tr><td>Delegators tab</td><td>Display a table of delegators who have staked with the validator.</td></tr><tr><td>Validation History tab</td><td>Provide data on completed or ongoing validation sessions of the validator.</td></tr><tr><td>Health Check tab</td><td>Show validator status using specific metrics such as status, online availability, accessibility, and responsiveness.</td></tr></tbody></table>
+
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Validator detail</p></figcaption></figure>
+
 ## 2. Remove validator
 
 On Dera, removing a validator means exiting the active validator set. This is done by unbonding your self-delegated tokens.
@@ -126,5 +136,5 @@ To delete your validator node after the staking duration has expired:
 * If you want to clean up your delegation list after a validator is removed, you can manually remove the delegator entry from the UI.
 * This also helps release any locked tokens and ensures that the delegation process to that node is fully terminated.
 
-## 3. View page
+
 
