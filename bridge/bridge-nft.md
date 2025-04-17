@@ -72,4 +72,4 @@ This section provides a clear and detailed history of each transaction, includin
 
 Users can also view the bridged NFT on our [**NFT2Scan**](https://nft2scan.com/) platform.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>History</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>History</p></figcaption></figure>

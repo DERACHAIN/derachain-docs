@@ -14,7 +14,7 @@ This will enable you to create your own validator node and stake tokens securely
 
 > ⚠️ Make sure your wallet is connected to the Derachain network before proceeding.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Connect wallet</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Connect wallet</p></figcaption></figure>
 
 ### 1.2 Staking Amount
 
@@ -24,7 +24,7 @@ Choose the amount to stake and lock to your validator (note: the amount must be 
 
 After entering the amount to validate, click “Next”.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Step1: Staking amount</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Step1: Staking amount</p></figcaption></figure>
 
 ### 1.3 Node Info
 
@@ -32,7 +32,7 @@ Next, you will need to enter your Node information. You will also be required to
 
 After entering the above information, click "Next".
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Step2: Node info</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Step2: Node info</p></figcaption></figure>
 
 ### 1.4 Staking Duration
 
@@ -84,7 +84,47 @@ Once completed, users will see their validation was successful. They can then vi
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Completed validate</p></figcaption></figure>
 
-## 2. Remove validate
+## 2. Remove validator
+
+On Dera, removing a validator means exiting the active validator set. This is done by unbonding your self-delegated tokens.
+
+***
+
+### 2.1 When should you remove a validator?
+
+* You no longer want to participate as a validator.
+* You want to recover your staked tokens.
+* You are shutting down your validator node.
+
+### 2.2 How to remove a validator
+
+To delete your validator node after the staking duration has expired:
+
+1. Go to the **My Staking** page.
+2. In the list of your nodes, click the **Delete** button next to the validator you want to remove.
+3. A confirmation dialog will appear — make sure you want to proceed.
+4. The system will prompt your wallet to **sign a transaction** to confirm the deletion.
+5. Once signed, the transaction will be processed and your node will be removed.
+
+> ⚠️ Note: You can only delete a node **after the staking duration you initially set has expired**.&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>My staking</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Popup confirm remove validator</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Remove validator succsess</p></figcaption></figure>
+
+⚠️ Note:&#x20;
+
+* Removing your validator does **not** affect delegators directly, but they will stop earning rewards from your node.
+* Validators can rejoin by creating a new validator transaction.
+
+### 2.3 What Happens to Your Delegated Tokens?
+
+* Your tokens are **not lost**.
+* During this period, you won't earn rewards, and tokens remain locked.
+* If you want to clean up your delegation list after a validator is removed, you can manually remove the delegator entry from the UI.
+* This also helps release any locked tokens and ensures that the delegation process to that node is fully terminated.
 
 ## 3. View page
 

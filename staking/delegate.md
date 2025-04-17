@@ -60,6 +60,27 @@ Once completed, users will see a confirmation of successful delegation. They can
 
 ## 2. Remove Delegate
 
+### 2.1 When Can You Remove Delegator?
+
+* When the validator has been removed from the validator set.
+* When your tokens have completed the unbonding period.
+* Anytime you want to stop delegating and clean up your staking records.
+
+### 2.2 How to Remove a Delegator
+
+1. Go to **My Staking > Delegations** tab.
+2. Find the delegator entry associated with a removed validator.
+3. Click the **Remove** button.
+4. Confirm the action when prompted.
+5. Your wallet will request a signature — approve it.
+6. Once the transaction is confirmed, the delegation is removed.
+
+### 2.3 What Will You Receive After Removal?
+
+* Your tokens will be automatically returned to your wallet after you remove the delegator.
+* Staking with the previous validator will be fully terminated: no more staking link or reward tracking associated with that validator.
+* You can re-stake with another validator, or simply hold your tokens for more flexibility in the future.
+
 3\. View page\
 
 
