@@ -75,6 +75,12 @@ Once completed, users will see a confirmation of successful delegation. They can
 5. Your wallet will request a signature — approve it.
 6. Once the transaction is confirmed, the delegation is removed.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>My staking</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Popup confirm remove delegator</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Remove delegator succsess</p></figcaption></figure>
+
 ### 2.3 What Will You Receive After Removal?
 
 * Your tokens will be automatically returned to your wallet after you remove the delegator.
