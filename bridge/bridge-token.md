@@ -12,7 +12,7 @@ description: >-
 
 * Connect wallet by MetaMask extension with Derachain network
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Connect wallet</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Connect wallet</p></figcaption></figure>
 
 ### **1.2 Import token bridge information**
 
@@ -26,11 +26,11 @@ description: >-
 
 * Select Bridge fee is currently **included or exclude** in your input amount
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Popup confirm Bridge fee</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Popup confirm Bridge fee</p></figcaption></figure>
 
 ### **1.4 Completed**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Bridge token completed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Bridge token completed</p></figcaption></figure>
 
 ## **2. Retry**&#x20;
 
@@ -40,11 +40,11 @@ In case you have not received the token after 10 minutes, please use the retry f
 * Enter Order ID
 * Click button Resume
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Retry token</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Retry token</p></figcaption></figure>
 
 * Retry completed
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Retry token completed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Retry token completed</p></figcaption></figure>
 
 ## 3. View history
 
@@ -58,4 +58,4 @@ Here, the bridge history is displayed clearly for each transaction, including de
 * Order ID
 * Transaction hash (clickable to view on [Derachain Explorer](https://trace.derachain.com/))
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>History</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>History</p></figcaption></figure>

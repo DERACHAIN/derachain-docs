@@ -85,11 +85,11 @@ Clicking on the Transaction ID opens the Delegator detail page, where all key in
 5. Your wallet will request a signature — approve it.
 6. Once the transaction is confirmed, the delegation is removed.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>My staking</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>My staking</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Popup confirm remove delegator</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Popup confirm remove delegator</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Remove delegator succsess</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Remove delegator succsess</p></figcaption></figure>
 
 ### 2.3 What Will You Receive After Removal?
 

@@ -52,11 +52,11 @@ In case you haven't received your NFT after 10 minutes, please use the retry fea
 * Enter Order ID
 * Click button Resume
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Retry NFT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Retry NFT</p></figcaption></figure>
 
 * Retry completed
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Retry NFT completed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Retry NFT completed</p></figcaption></figure>
 
 ## 3. View History
 
@@ -72,4 +72,4 @@ This section provides a clear and detailed history of each transaction, includin
 
 Users can also view the bridged NFT on our [**NFT2Scan**](https://nft2scan.com/) platform.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>History</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>History</p></figcaption></figure>
