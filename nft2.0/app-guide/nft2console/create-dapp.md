@@ -20,7 +20,7 @@ To start building your application on **DareProtocol**, you first need to create
 
 
 
-    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Dashboard</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Dashboard</p></figcaption></figure>
 
 ### Step 2: Fill in Your D-app Profile
 
@@ -45,7 +45,7 @@ On the profile creation screen, complete the following fields:
 * Once all fields are completed, click the **“Save”** button to submit your profile.
 * Your information will be stored and made publicly visible on DareProtocol.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>D-app Profile</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>D-app Profile</p></figcaption></figure>
 
 ### Step 3: Submit Your D-app On-Chain
 
@@ -79,11 +79,11 @@ Once your **D-app Profile** is successfully saved, the next step is to **submit 
         * Click the **copy icon** to copy the link or click view detail data&#x20;
         * Click [**View on NFT2scan**](https://nft2scan.com/d-apps) to inspect your data on-chain
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Create data registry</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Create data registry</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Deploy data</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Deploy data</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p><strong>D-app Successfully Created</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p><strong>D-app Successfully Created</strong></p></figcaption></figure>
 
 ## 2. Editing D-app Profile
 
@@ -120,8 +120,8 @@ On DareNFT Console, creators can freely update their D-app profile at any time. 
 * All updates are published via IPFS and visible in the `Registry URI`
 * If you skip the final “Update data registry” step, your edits will **not** reflect on-chain
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>D-app detail</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>D-app detail</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Edit D-app </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Edit D-app </p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Update Data registry</p></figcaption></figure>

@@ -14,7 +14,7 @@ This will enable you to create your own validator node and stake tokens securely
 
 > ⚠️ Make sure your wallet is connected to the Derachain network before proceeding.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Connect wallet</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Connect wallet</p></figcaption></figure>
 
 ### 1.2 Staking Amount
 
@@ -24,7 +24,7 @@ Choose the amount to stake and lock to your validator (note: the amount must be 
 
 After entering the amount to validate, click “Next”.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Step1: Staking amount</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Step1: Staking amount</p></figcaption></figure>
 
 ### 1.3 Node Info
 
@@ -32,7 +32,7 @@ Next, you will need to enter your Node information. You will also be required to
 
 After entering the above information, click "Next".
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Step2: Node info</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Step2: Node info</p></figcaption></figure>
 
 ### 1.4 Staking Duration
 
@@ -40,11 +40,11 @@ Next, choose a staking duration. A graph is present to represent the potential r
 
 * _NOTE: These estimates are based on the current supply of DERA. Please see the Derachain documentation for more information on rewards calculations._
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Step3: Staking duration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Step3: Staking duration</p></figcaption></figure>
 
 There are multiple predefined durations available to choose from, as well as a “Custom” option where the user can select a personalized end date for their staking period.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Select duration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Select duration</p></figcaption></figure>
 
 If choosing a custom date, users are able to select a specific date within the minimum and maximum stake dates from the pop-up calendar.
 
@@ -118,11 +118,11 @@ To delete your validator node after the staking duration has expired:
 
 > ⚠️ Note: You can only delete a node **after the staking duration you initially set has expired**.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>My staking</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>My staking</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Popup confirm remove validator</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Popup confirm remove validator</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Remove validator succsess</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Remove validator succsess</p></figcaption></figure>
 
 ⚠️ Note:&#x20;
 
