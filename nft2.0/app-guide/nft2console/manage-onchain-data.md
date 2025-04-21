@@ -67,8 +67,10 @@ Click the **Write Data** button and confirm the transaction in your connected wa
 * Writing a property key only updates that specific trait without affecting others.
 * You can write data multiple times to the same NFT.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Write data</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Write data</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Write batch NFT data</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Write batch NFT data</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Select key</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>NFT data</p></figcaption></figure>

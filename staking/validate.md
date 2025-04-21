@@ -24,7 +24,7 @@ Choose the amount to stake and lock to your validator (note: the amount must be 
 
 After entering the amount to validate, click “Next”.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Step1: Staking amount</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Step1: Staking amount</p></figcaption></figure>
 
 ### 1.3 Node Info
 
@@ -120,7 +120,7 @@ To delete your validator node after the staking duration has expired:
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>My staking</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Popup confirm remove validator</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Popup confirm remove validator</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Remove validator succsess</p></figcaption></figure>
 

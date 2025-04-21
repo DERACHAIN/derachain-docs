@@ -19,7 +19,7 @@ The article guides you to set up the data schema of the game assets.
 Navigate to **Console** > **Dashboard** > **NFT Data Schema**. Here you can see the data schema of your game. For now, each Game ID can define only 01 data schema.\
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Add schema</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Add schema</p></figcaption></figure>
 
 Data schema is defined in format of JSON, to list out all the game properties of the NFTs and their data type. This is to validate the payload whenever the NFT is updated with your game metadata. You can define one-by-one property in the "View as List" form, then Console will generate the JSON schema for you.
 

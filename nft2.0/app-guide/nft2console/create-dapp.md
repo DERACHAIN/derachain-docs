@@ -45,7 +45,7 @@ On the profile creation screen, complete the following fields:
 * Once all fields are completed, click the **“Save”** button to submit your profile.
 * Your information will be stored and made publicly visible on DareProtocol.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>D-app Profile</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>D-app Profile</p></figcaption></figure>
 
 ### Step 3: Submit Your D-app On-Chain
 

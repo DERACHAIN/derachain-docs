@@ -26,7 +26,7 @@ description: >-
 
 * Select Bridge fee is currently **included or exclude** in your input amount
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Popup confirm Bridge fee</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Popup confirm Bridge fee</p></figcaption></figure>
 
 ### **1.4 Completed**
 
