@@ -12,7 +12,7 @@ To manage your key, navigate to **Console** > **Dashboard** > **API Keys**.
 
 A new Game account has got no API key by default. You would need to generate one for later use in SDK as mentioned in [Configure the SDK](https://docs.nft2scan.com/darenft-protocol/get-started/initialize-the-sdk/#configure-the-sdk).
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Gennerate API key</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Gennerate API key</p></figcaption></figure>
 
 DO NOT share the API key, as it provides access to all the features accessible by you as Game Provider on DareNFT Protocol.
 
