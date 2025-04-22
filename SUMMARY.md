@@ -83,6 +83,7 @@
 * [Foundry](smart-contracts/foundry.md)
 * [Account Abstraction](smart-contracts/account-abstraction.md)
 * [SubQuery Indexer](smart-contracts/subquery.md)
+* [SAFE multisign](smart-contracts/safe-multisign.md)
 
 ## Nodes & Validators
 
